@@ -10,6 +10,7 @@ A simple PyQt5-based confession app that displays a heartfelt message when a but
 
 ## Screenshots
 ![Screenshot 2025-02-19 192437](https://github.com/user-attachments/assets/39998222-4b9a-4166-a068-58f0a532d80b)
+![Screenshot 2025-02-19 192525](https://github.com/user-attachments/assets/477acff8-0f34-445c-91cb-9d9eb7878b5b)
 
 
 ## Installation
