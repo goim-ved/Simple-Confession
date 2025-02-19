@@ -9,7 +9,8 @@ A simple PyQt5-based confession app that displays a heartfelt message when a but
 - Custom window title and icon.
 
 ## Screenshots
-(You can add screenshots here after running the app.)
+![Screenshot 2025-02-19 192437](https://github.com/user-attachments/assets/39998222-4b9a-4166-a068-58f0a532d80b)
+
 
 ## Installation
 ### Prerequisites
